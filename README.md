@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+KAMRAN-MD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+KAMRAN+MD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+KAMRAN-MD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+LIGER+MD" alt="Typing SVG" />
 </a>
 
 <div style="padding: 15px; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); border-radius: 50px; display: inline-block; box-shadow: 0 0 40px #FF00FF;">
@@ -19,10 +19,10 @@
 <h1 align="center" style="color: #FFD700; text-shadow: 0 0 25px #FFD700; font-family: 'Black Ops One';">✨ SHOW YOUR SUPPORT ✨</h1>
 
 <div align="center">
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/fork">
+  <a href="https://github.com/LIGER-SMD/LIGER-MD/fork">
     <img src="https://img.shields.io/badge/FORK%20THIS%20REPO-FF0055?style=for-the-badge&logo=github&logoColor=white" width="280" height="60"/>
   </a>
-  <a href="https://github.com/KAMRAN-SMD/KAMRAN-MD/stargazers">
+  <a href="https://github.com/LIGER-SMD/LIGER-MD/stargazers">
     <img src="https://img.shields.io/badge/STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="280" height="60"/>
   </a>
 </div>
@@ -36,7 +36,7 @@
 <h1 align="center" style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF;">🌌 ONE-CLICK DEPLOYMENT 🌌</h1>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/KAMRAN-SMD/KAMRAN-MD">
+  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/LIGER-SMD/LIGER-MD">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-8C4FFF?style=for-the-badge&logo=heroku&logoColor=white" width="400" height="65"/>
   </a>
 </p>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=KAMRAN-SMD/KAMRAN-MD">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=LIGER-SMD/LIGER-MD">
     <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-00D2FF?style=for-the-badge&logo=koyeb&logoColor=white" width="400" height="65"/>
   </a>
 </p>
@@ -90,7 +90,7 @@
 <br>
 
 <h2 align="center" style="color: #8A2BE2; text-shadow: 0 0 10px #8A2BE2;">📊 DEVELOPER INSIGHTS</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=KAMRAN-SMD&show_icons=true&theme=tokyonight&border_radius=10&ring_color=00FFFF" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LIGER-SMD&show_icons=true&theme=tokyonight&border_radius=10&ring_color=00FFFF" width="500"/>
 
 <br><br>
 
@@ -106,7 +106,7 @@
 
 <br>
 <div style="font-size: 28px; font-weight: bold; color: #fff; text-shadow: 0 0 20px #FF00FF;">
-  OWNED BY KAMRAN MD 👑
+  OWNED BY LIGER MD 👑
 </div>
 
 </div>
@@ -123,21 +123,10 @@
 
 | SERVER ID | DIRECT DEPLOYMENT LINK | STATUS |
 | :---: | :---: | :---: |
-| **SERVER 01** | [🚀 DEPLOY NOW](https://mini-new-1-9e38bb0f2cce.herokuapp.com/) | `ONLINE` |
-| **SERVER 02** | [🚀 DEPLOY NOW](https://mini-new-2-558f83d85ffb.herokuapp.com/) | `ONLINE` |
-| **SERVER 03** | [🚀 DEPLOY NOW](https://mini-new-3-66f89be467b7.herokuapp.com/) | `ONLINE` |
-| **SERVER 04** | [🚀 DEPLOY NOW](https://mini-new-4-d5b0068b757b.herokuapp.com/) | `ONLINE` |
-| **SERVER 05** | [🚀 DEPLOY NOW](https://mini-new-5-41cd4c20d6a3.herokuapp.com/) | `ONLINE` |
-| **SERVER 06** | [🚀 DEPLOY NOW](https://mini-new-6-f4fe17ae7883.herokuapp.com/) | `ONLINE` |
-| **SERVER 07** | [🚀 DEPLOY NOW](https://mini-new-7-b261d5d359f8.herokuapp.com/) | `ONLINE` |
-| **SERVER 08** | [🚀 DEPLOY NOW](https://mini-new-8-f14b68b303c3.herokuapp.com/) | `ONLINE` |
-| **SERVER 09** | [🚀 DEPLOY NOW](https://mini-new-9-6a20b06fdefb.herokuapp.com/) | `ONLINE` |
-| **SERVER 10** | [🚀 DEPLOY NOW](https://mini-new-10-19b9d17de42e.herokuapp.com/) | `ONLINE` |
-| **SERVER 11** | [🚀 DEPLOY NOW](https://mini-new-11-6c84cb7a89ad.herokuapp.com/) | `ONLINE` |
-| **SERVER 12** | [🚀 DEPLOY NOW](https://mini-new-12-e8f9d688a289.herokuapp.com/) | `ONLINE` |
-| **SERVER 13** | [🚀 DEPLOY NOW](https://mini-new-13-a1b18663a32e.herokuapp.com/) | `ONLINE` |
-| **SERVER 14** | [🚀 DEPLOY NOW](https://mini-new-14-ff9f7d923371.herokuapp.com/) | `ONLINE` |
-| **SERVER 15** | [🚀 DEPLOY NOW](https://mini-new-15-1e0037b2c1cd.herokuapp.com/) | `ONLINE` |
+| **SERVER 01** | [🚀 DEPLOY NOW](https://liger-new-1-9e38bb0f2cce.herokuapp.com/) | `ONLINE` |
+| **SERVER 02** | [🚀 DEPLOY NOW](https://liger-new-2-558f83d85ffb.herokuapp.com/) | `ONLINE` |
+| **SERVER 03** | [🚀 DEPLOY NOW](https://liger-new-3-66f89be467b7.herokuapp.com/) | `ONLINE` |
+
 
 </div>
 
